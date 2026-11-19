@@ -1,0 +1,5 @@
+Instructions to export the model:
+
+1) Train the model with train.py
+1) Create a general format of the model thanks to ONNX by executing export_model.py
+2) Test that the original model and the exported one work with the same input and output spaces
